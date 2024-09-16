@@ -25,7 +25,7 @@
 
 ## Demo
 
-Online demo: https://3.110.170.48/login
+Online demo:http://3.110.170.48/login
 
 To login website use:
 
