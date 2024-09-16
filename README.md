@@ -4,10 +4,10 @@
   </a>
 </p>
 
-<h1 align="center">HIS - Hospital Information System</h1>
+<h1 align="center">B2B</h1>
 
 <p>
-  This repository is a form of original HIS project. 
+  This repository is a form of original B2B project. 
 </p>
 <br>
 
@@ -25,12 +25,12 @@
 
 ## Demo
 
-Online demo: https://hms-web-app-nu.vercel.app/
+Online demo: https://3.110.170.48/login
 
 To login website use:
 
-<!-- `username:` admin@example.com<br />
-`password:` admin<br /> -->
+<!-- `username:` mgr<br />
+`password:` mgruatver1<br /> -->
 
 ## Available Scripts
 
