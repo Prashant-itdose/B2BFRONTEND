@@ -1,0 +1,41 @@
+
+
+
+export const apiUrls = {
+  // Auth
+  login: "/B2B_API/API/LoginAPIDynamic/Login",
+  // logout: "/HospediaAPI/api/v1/MasterPage/Logout",
+GetCentresByEmployeeId:"/B2B_API/API/B2B_6/GetCentre_EmployeeID",
+GetPanelsByCentreId:"B2B_API/API/B2B_6/GetPanel_CentreID",
+GetLedgerReportSingleLine:"/B2B_API/API/B2B_6/LedgerReport_SingleLine",
+SearchEditInfoOfAccession:"/B2B_API/API/B2B_6/EditInfoSearch",
+SaveEditInfoAccession:"B2B_API/API/B2B_6/EditInfoSave",
+SearchLedgerReport:"B2B_API/API/B2B_6/GetPanel_CentreID",
+SearchInvoiceReprint:"B2B_API/API/B2B_6/GetPanel_CentreID",
+DynamicSearch:"/B2B_API/API/B2B_6/DynamicSearch",
+OPDReprint:"/B2B_API/API/B2B_6/OPDRePrint",
+LedgerReportStatement:"/B2B_API/API/B2B_6/LedgerReport_Statement",
+DoctorSearchapi:"/B2B_API/API/B2B_6/DoctorMaster_Select",
+DownloadRateList:"/B2B_API/API/B2B_6/DownloadRateList",
+GetReceiptDetailnew:'/B2B_API/API/B2B_6/OPDRePrint',
+LedgerReportMonthly:"B2B_API/API/B2B_6/LedgerReport_Monthly",
+GetPatientLabSearch:"B2B_API/API/B2B_6/PatientLabSearch",
+GetClientDepositReport:"B2B_API/API/B2B_6/ClientDepositReport",
+ChangePasswordrequest:"/B2B_API/API/B2B_6/ChangePassword",
+SaveDoctor:"/B2B_API/API/B2B_6/SaveNewDoctor",
+GetTestsList:'/B2B_API/API/B2B_6//GetTestList',
+OldpatientInfo:'/B2B_API/API/B2B_6/BindOLDPatient',
+PaymentMode:'B2B_API/API/B2B_6/PaymentMode_Select',
+DisocuntBY:'B2B_API/API/B2B_6/DiscountApprovedBy_Select',
+fetchDocuments:'/B2B_API/API/PathScan/PathScan_DocumentMaster',
+fetchBanks:'B2B_API/API/B2B_6/BankMaster_Select',
+WelcomeDashBoard:'B2B_API/API/Dashboard_6/WelcomeDashobard',
+Twomonthsaletrend:'B2B_API/API/Dashboard_6/Last2Month_SaleTrend',
+LastWeekTrend:'B2B_API/API/Dashboard_6/LastWeek_Trend',
+dashboarddata:'B2B_API/API/Dashboard_6/TestStatus_Count',
+SinglelineSummary:'B2B_API/API/ClientBusinessReport/ClientBusinessReport_SingleLine',
+MonthlySummary:'B2B_API/API/ClientBusinessReport/ClientBusinessReport_Monthly',
+ReportSummary:'B2B_API/API/ClientBusinessReport/ClientBusinessReport_Detail',
+SearchPatientSearch:"/B2B_API/API/PathScan/PathScan_Search",
+UploadDocuments:"/B2B_API/API/PathScan/PathScan_Upload"
+};
